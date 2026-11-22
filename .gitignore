@@ -1,0 +1,7 @@
+mail_config.php
+mail.log
+*.log
+.env
+.env.*
+!.env.example
+*.zip
